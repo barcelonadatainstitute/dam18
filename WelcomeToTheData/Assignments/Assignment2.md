@@ -1,4 +1,4 @@
-# Assignment 2: Assignment 2. Statistical test.
+# Assignment 2: Statistical test.
 
 
 **Task:**
