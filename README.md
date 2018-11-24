@@ -27,3 +27,7 @@ Usefull resources.
 - [Assignment 3: Date functions](WelcomeToTheData/Assignments/Assignment3.md)
 
 - [Assignment 4. Performance tracking](WelcomeToTheData/Assignments/Assignment4.md)
+
+### SQL MasterClass
+
+- [Slides from the session](SQLMasterClass/SQLMasterClass.pdf)
