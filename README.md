@@ -30,4 +30,6 @@ Usefull resources.
 
 ### SQL MasterClass
 
-- [Slides from the session](SQLMasterClass/SQLMasterClass.pdf)
+- [Slides from the session - Saturday](SQLMasterClass/SQLMasterClass.pdf)
+
+- [Slides from the session - Friday](SQLMasterClass/SQLMasterClass_2.pdf)
