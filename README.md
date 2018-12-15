@@ -40,3 +40,7 @@ Usefull resources.
 - [Slides from the session](DecisionMakingMasterClass/materials/DecisionMakingMasterClass.pdf)
 
 - [Business Metrics - Cheat-sheet](DecisionMakingMasterClass/materials/Business_Metrics_cheat_sheet.pdf)
+
+### Introduction to R
+
+- [Slides from the session](IntroductionToR/materials/Analysing_data_using_R.pdf)
