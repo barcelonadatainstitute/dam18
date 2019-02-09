@@ -44,3 +44,8 @@ Usefull resources.
 ### Introduction to R
 
 - [Slides from the session](IntroductionToR/materials/Analysing_data_using_R.pdf)
+
+
+### Market Study
+
+- [Slides from the session](MarketStudy/BCNDI_MASTERCLASS_PHARMA.pdf)
