@@ -49,3 +49,8 @@ Usefull resources.
 ### Market Study
 
 - [Slides from the session](MarketStudy/BCNDI_MASTERCLASS_PHARMA.pdf)
+
+
+### Content Analytics LaVanguardia
+
+- [Slides from the session](ContentAnalyticsLV/slides.pdf)
